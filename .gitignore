@@ -1,8 +1,5 @@
 plots/
 paths/
 *.zip
-results-tiny/
-results-small/
-results-med/
 FruitSeg30_Segmentation Dataset & Mask Annotations/
 dataset/
